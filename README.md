@@ -28,9 +28,9 @@
 - summer job: admin work & forklift operator 
 
 2018-2021
-- 1:nd place finish in school phsics tournament 
-- 2:nd place finish in school chemistry tournament 
-- 2:nd place finish in school math tournament 
+- 1st place finish in school physics tournament
+- 2nd place finish in school chemistry tournament 
+- 2nd place finish in school math tournament 
 - member of the student council throughout high school
 - founded two school clubs: AI Club and Gaming & E-sports Club
 - awarded academic scholarship
