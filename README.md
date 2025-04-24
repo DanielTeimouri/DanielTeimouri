@@ -22,8 +22,8 @@
 
 2022-2023
 - uni 
+- created some programs with python for calculator ()
 - programming & math tutor at uni
-- built calculator programs in python (itteration...)
 
 2021-2022
 - started BSc in Chemical Engineering with Engineering Physics 
