@@ -28,8 +28,8 @@
 
 2018-2021
 - 1st place finish in school physics tournament
-- 2nd place finish in school chemistry tournament 
 - 2nd place finish in school math tournament 
+- 2nd place finish in school chemistry tournament 
 - member of the student council throughout high school
 - founded two school clubs: AI Club and Gaming & E-sports Club
 - awarded academic scholarship
