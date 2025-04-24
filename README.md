@@ -4,8 +4,9 @@
 - finished my BSc Chemical Engineering with Engineering Physics 
 - starting my MSc in Computational Physics
 - performed quantum chemistry calculations with ORCA, Matlab & Avogadro 
-- programming & math tutor at uni
 - built a split keyboard (corne) from scratch 
+- programming & math tutor at uni
+
 
 2024-2025
 - uni
