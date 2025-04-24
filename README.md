@@ -13,7 +13,7 @@
 - programming & math tutor at uni
 - built my own game emulator from scratch
 - worked with variuos Linux distros (mainly with arch, ubuntu and debian)
-- modified and worked with
+- modified and improved old laptops front and backend
 
 2023-2024
 - R&D assistant mainly doing statistical modelling, product quality checks & ongoing product dev
