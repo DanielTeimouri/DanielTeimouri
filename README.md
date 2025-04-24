@@ -22,6 +22,7 @@
 
 2022-2023
 - uni 
+- fully designed and simulated a chemical plant
 - created programs with python for calculator (TI-Nspire™ CX II-T CAS)
 - programming & math tutor at uni
 
