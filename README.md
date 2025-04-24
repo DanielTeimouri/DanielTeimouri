@@ -22,7 +22,7 @@
 
 2022-2023
 - uni 
-- created some programs with python for calculator ()
+- created some programs with python for calculator (TI-Nspire™ CX II-T CAS)
 - programming & math tutor at uni
 
 2021-2022
