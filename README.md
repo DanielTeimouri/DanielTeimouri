@@ -9,7 +9,6 @@
 
 2024-2025
 - uni
-- worked with SEM & TEM machines
 - programming & math tutor at uni
 - built my own game emulator from scratch
 - worked with variuos Linux distros 
