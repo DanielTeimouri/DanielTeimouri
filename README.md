@@ -2,7 +2,7 @@
 
 2025-now
 - finished my BSc Chemical Engineering with Engineering Physics 
-- starting my MSc in Computational Physics
+- starting my MSc Engineering mathematics and computational science
 - performed quantum chemistry calculations with ORCA, Matlab & Avogadro 
 - built a split keyboard (corne) from scratch 
 - programming & math tutor at uni
