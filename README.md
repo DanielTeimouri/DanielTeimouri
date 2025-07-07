@@ -16,7 +16,7 @@
 - modified and improved old laptops (thinkpads mostly) software and hardware
 
 2023-2024
-- R&D assistant mainly doing statistical modelling, product quality checks & ongoing product dev
+- R&D Technician mainly doing statistical modelling, product quality checks & ongoing product dev
 - raspberry pi projects
 - programming & math tutor at uni
 
